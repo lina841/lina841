@@ -32,29 +32,31 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-```python
-# Tools and Languages I Use
-
-my_tools = {
-    "Languages": ["C", "C++", "Python", "JavaScript", "HTML", "CSS"],
-    "Editors": ["VSCode"],
-    "VersionControl": ["Git"],
-    "Platforms": ["Windows", "GNU/Linux"]
-}
----
-
 ### 🚀 Projects
 
-- 🐍 **Python Mini Projects** – Simple scripts and exercises  
-- 💻 **C/C++ Algorithms** – Problem solving and logic building  
+- 🐍 Python Mini Projects – Simple scripts and exercises  
+- 💻 C/C++ Algorithms – Problem solving and logic building  
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LinaSlama&show_icons=true&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinaSlama&layout=compact&theme=tokyonight" width="45%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=LinaSlama&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
+
+<img src="https://streak-stats.demolab.com?user=LinaSlama&theme=tokyonight&hide_border=true" width="45%"/>
+
+</div>
+
+---
+
+### 📈 More Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinaSlama&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+
 </div>
 
 ---
