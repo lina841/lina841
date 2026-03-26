@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
 
 <h1>👋 Lina Slama</h1>
-<h3>💻 Student | 🌐 Web Developer </h3>
+<h3>💻 Student at EniCarthage en Informatique | 🌐 Web Developer </h3>
 
 <p>
 🔥 Learning web development with HTML, CSS & JavaScript<br>
@@ -13,9 +13,9 @@
 
 <!-- Social Media Badges -->
   
-[![Instagram](https://img.shields.io/badge/Instagram-FC4C7C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-FC4C7C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/linaslama/?hl=en)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lina.slama.127?locale=fr_FR)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-slama-359606397/)
 
 </div>
 
