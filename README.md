@@ -1,17 +1,21 @@
 <div align="center" width="50%">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
 
-<details>
-<summary><strong>🎧 Busy coding & Vibing to :</strong></summary>
+<h1>👋 Lina Slama</h1>
+<h3>💻 Student | 🌐 Web Developer </h3>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) 
+<p>
+🔥 Learning web development with HTML, CSS & JavaScript<br>
+🐍 Exploring Python projects and C/C++ algorithms<br>
+📚 Making coding fun and accessible for beginners
+</p>
 
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=LinaSlama&style=flat&color=orange)
-[![telegram badge](https://img.shields.io/badge/LinaSlama-grey?style=flat&logo=telegram)](https://t.me/) <br>
+<!-- Social Media Badges -->
+  
+[![Instagram](https://img.shields.io/badge/Instagram-FC4C7C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 </div>
 
