@@ -70,3 +70,10 @@
 😵‍💫 Debug → 😌 It works → 🤯 I don’t know why
 
 </div>
+<hr>
+
+<h3>📬 Contact Me</h3>
+
+<p>
+Feel free to reach out via any of the platforms above — whether you want to collaborate, ask a coding question, or just say hi!
+</p>
