@@ -8,7 +8,7 @@
 <p>
 🔥 Learning web development with HTML, CSS & JavaScript<br>
 🐍 Exploring Python projects and C/C++ algorithms<br>
-📚 Making coding fun and accessible for beginners
+📚 Passionate about making coding simple and accessible
 </p>
 
 <!-- Social Media -->
@@ -32,10 +32,12 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
+---
+
 ### 🚀 Projects
 
-- 🐍 Python Mini Projects – Simple scripts and exercises  
-- 💻 C/C++ Algorithms – Problem solving and logic building  
+- 🐍 **Python Mini Projects** – Simple scripts and exercises  
+- 💻 **C/C++ Algorithms** – Problem solving and algorithmic thinking  
 
 ---
 
@@ -65,6 +67,6 @@
 
 <div align="center">
 
-😵‍💫 Debug → 😌 It works → 🤯 I don't know why
+😵‍💫 Debug → 😌 It works → 🤯 I don’t know why
 
 </div>
